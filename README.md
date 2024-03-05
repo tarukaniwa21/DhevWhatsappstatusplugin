@@ -29,7 +29,7 @@ https://render.com
 Select my project and run💥
 
 
-✅ WhatsApp: wa.me/94773010580
+✅ WhatsApp: https://wa.link/c0yhyu
 👥 Github: https://github.com/BotDevilLozan
 ✦•······················•✦•······················•✦
 Facebook💚
