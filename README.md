@@ -1,6 +1,6 @@
-100% antibannd 🎯
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-auto status view whatsapp without bot
+//100% antibannd 🎯
+//⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+//auto status view whatsapp without bot
 
 And !?
 
