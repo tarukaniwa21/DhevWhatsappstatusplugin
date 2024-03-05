@@ -1,5 +1,6 @@
 .100% antibannd 🎯
 
+&gt;───⇌• :🌷: •⇋───&lt;
 
 .auto status view whatsapp without bot
 
@@ -21,29 +22,50 @@
 
 https://fenix-id-server-printing-code.onrender.com
 
+
 ⛔Get session v2
+
 ──────⊱⁜⊰──────
+
 https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX#main.sh
 
+
 3.upload you creds.json 
+
 (fucked1999fenix) folder ℹ️
+
 ──────⊱⁜⊰──────
+
 4.Connect github render
 
+
 Deploy 💭
+
 https://render.com
+
 ──────⊱⁜⊰──────
+
 Select my project and run💥
 
 
 ✅ WhatsApp: https://wa.link/c0yhyu
+
 👥 Github: https://github.com/BotDevilLozan
+
 ✦•······················•✦•······················•✦
+
 Facebook💚
+
 https://www.facebook.com/DevilDevonCodding
+
 ✦•······················•✦•······················•✦
+
 Youtube💛
+
 https://youtube.com/@fenix_programmer?si=xwkkXTVWWGuJ9Tde
+
 ✦•······················•✦•······················•✦
+
 Whatsapp 🎯
+
 https://chat.whatsapp.com/BcUf8OupvD9A7dxbApWVAy
