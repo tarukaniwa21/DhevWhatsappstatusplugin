@@ -1,5 +1,5 @@
-//100% antibannd 🎯
-//⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+100% antibannd 🎯
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 //auto status view whatsapp without bot
 
 And !?
