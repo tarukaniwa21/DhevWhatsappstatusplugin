@@ -1,15 +1,22 @@
 .100% antibannd 🎯
+
+
 .auto status view whatsapp without bot
 
 .And !?
 
 .Anyone send msg in your chat show
+
+
 .Fake recording action 😂✌️
-.⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
 
 1.First fork my project
+
 ──────⊱⁜⊰──────
+
 2.get Connect whatsapp 
+
 ⛔Get session v1
 
 https://fenix-id-server-printing-code.onrender.com
