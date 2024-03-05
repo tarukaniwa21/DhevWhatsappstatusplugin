@@ -1,12 +1,11 @@
-100% antibannd 🎯
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-//auto status view whatsapp without bot
+.100% antibannd 🎯
+.auto status view whatsapp without bot
 
-And !?
+.And !?
 
-Anyone send msg in your chat show
-Fake recording action 😂✌️
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+.Anyone send msg in your chat show
+.Fake recording action 😂✌️
+.⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 1.First fork my project
 ──────⊱⁜⊰──────
