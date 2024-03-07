@@ -1,6 +1,7 @@
 <a href="https://telegra.ph/file/fd76abf848ff6d82a35fb.png"><img src="https://telegra.ph/file/fd76abf848ff6d82a35fb.png" alt="badrabbit-MD" border="0"></a>
 <h1 align="center">🎯whatsapp plugin status🎯<br></h1>
 
+## ```Termux setup```
 ```
 pkg install git -y
 
