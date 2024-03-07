@@ -105,9 +105,9 @@ pkg install imagemagick -y
 
 git clone https://github.com/BotDevilLozan/Whatsappstatusplugin.md
 
-cd Whatsappstatusplugin.md
+cd Whatsappstatusplugin
 
-npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start  fenix8.14.991.js && pm2 save && pm2 logs
 
 
 ```
