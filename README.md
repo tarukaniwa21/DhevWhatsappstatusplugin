@@ -77,7 +77,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-## `For Termux/Ssh/Ubuntu`
+## `For Termux`
 
 ```bash
 
