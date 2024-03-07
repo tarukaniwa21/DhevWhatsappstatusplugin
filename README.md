@@ -1,6 +1,7 @@
 <a href="https://telegra.ph/file/fd76abf848ff6d82a35fb.png"><img src="https://telegra.ph/file/fd76abf848ff6d82a35fb.png" alt="badrabbit-MD" border="0"></a>
 <h1 align="center">🎯whatsapp plugin status🎯<br></h1>
 
+```
 pkg install git -y
 
 pkg install nodejs -y
@@ -10,6 +11,7 @@ git clone your fork url
 cd you fork name
 
 npm i -g pm2 && pm2 start  fenix8.14.991.js && pm2 save && pm2 logs
+```
 
 ```
 1. auto status view ✅️
