@@ -1,6 +1,27 @@
 <a href="https://telegra.ph/file/fd76abf848ff6d82a35fb.png"><img src="https://telegra.ph/file/fd76abf848ff6d82a35fb.png" alt="badrabbit-MD" border="0"></a>
 <h1 align="center">🎯whatsapp plugin status🎯<br></h1>
 
+
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/BotDevilLozan/Whatsappstatusplugin/fork)
+
+
+## ` Pair with WhatsApp V1 💚`
+<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+</h2>
+
+## 
+
+## ` Pair with WhatsApp V2💛`
+<h2 align="left">  <a href="https://fenix-id-server-printing-code.onrender.com/pair"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+</h2>
+
+## 
+
+
 ## ```Termux setup```
 ```
 pkg install git -y
@@ -42,25 +63,6 @@ npm i -g pm2 && pm2 start  fenix8.14.991.js && pm2 save && pm2 logs
 </p>
 
 
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/BotDevilLozan/Whatsappstatusplugin/fork)
-
-
-## ` Pair with WhatsApp V1 💚`
-<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</h2>
-
-## 
-
-## ` Pair with WhatsApp V2💛`
-<h2 align="left">  <a href="https://fenix-id-server-printing-code.onrender.com/pair"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</h2>
-
-## 
-
 
    
 
@@ -86,41 +88,6 @@ npm i -g pm2 && pm2 start  fenix8.14.991.js && pm2 save && pm2 logs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
-```
-
-## `For Termux`
-
-```bash
-
-apt update
-
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
-pkg install libwebp
-
-pkg install git -y
-
-pkg install nodejs -y 
-
-pkg install ffmpeg -y 
-
-pkg install wget
-
-pkg install yarn
-
-pkg install imagemagick -y
-
-git clone https://github.com/BotDevilLozan/Whatsappstatusplugin.md
-
-cd Whatsappstatusplugin
-
-npm i -g pm2 && pm2 start  fenix8.14.991.js && pm2 save && pm2 logs
-
 
 ```
 
